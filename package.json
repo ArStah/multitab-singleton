@@ -1,0 +1,9 @@
+{
+  "name": "multitab-singleton",
+  "version": "0.0.1",
+  "description": "Simple api to do something only on one tab",
+  "main": "index.js",
+  "repository": "https://github.com/ArStah/multitab-singleton.git",
+  "author": "Arsen Stahanov <arsen.stahanov@gmail.com>",
+  "license": "MIT"
+}
