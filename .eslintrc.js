@@ -12,5 +12,6 @@ module.exports = {
   ],
   globals: {
     publicPath: true,
+    BlobBuilder: true,
   },
 };
