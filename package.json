@@ -1,6 +1,6 @@
 {
   "name": "multitab-singleton",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Simple zero-dependency package, that allows you to run code only on one tab across one browser",
   "main": "dist/index.js",
   "files": [
